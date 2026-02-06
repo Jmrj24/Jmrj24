@@ -16,7 +16,7 @@
 
 ¡Bienvenido a mi taller de código! Soy un Ingeniero apasionado por construir sistemas robustos, escalables y seguros en el ecosistema **Java**. Me especializo en el desarrollo del lado del servidor, asegurando que la lógica de negocio funcione de manera precisa.
 
-- 🔭 Actualmente estoy trabajando en **Actualmente estoy consolidando y perfeccionando mis habilidades en Seguridad (Spring Security) y Arquitectura de Microservicios**.
+- 🔭 Actualmente estoy consolidando y perfeccionando mis habilidades en **Seguridad (Spring Security) y Arquitectura de Microservicios**.
 - 🚀 Acabo de lanzar mi nuevo portfolio: **[Jeferson Rosales | Backend Developer](https://jmrj24.github.io/PortfolioJefersonRosales/)**
 - ⚡ **Mi enfoque:** Clean Code, Buenas Prácticas y Seguridad (Spring Security).
 - 💬 **Pregúntame sobre:** Java, Spring Boot, Microservicios, Docker y Bases de Datos.

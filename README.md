@@ -16,10 +16,10 @@
 
 ¡Bienvenido a mi taller de código! Soy un Ingeniero apasionado por construir sistemas robustos, escalables y seguros en el ecosistema **Java**. Me especializo en el desarrollo del lado del servidor, asegurando que la lógica de negocio funcione de manera precisa.
 
-- 🔭 Actualmente estoy trabajando en **Arquitectura de Microservicios y APIs RESTful**.
-- 🚀 Acabo de lanzar mi nuevo portfolio: **[jefersonrosales.dev](https://jmrj24.github.io/PortfolioJefersonRosales/)**
+- 🔭 Actualmente estoy trabajando en **Actualmente estoy consolidando y perfeccionando mis habilidades en Seguridad (Spring Security) y Arquitectura de Microservicios**.
+- 🚀 Acabo de lanzar mi nuevo portfolio: **[Jeferson Rosales | Backend Developer](https://jmrj24.github.io/PortfolioJefersonRosales/)**
 - ⚡ **Mi enfoque:** Clean Code, Buenas Prácticas y Seguridad (Spring Security).
-- 💬 **Pregúntame sobre:** Java, Spring Boot, Docker y Bases de Datos.
+- 💬 **Pregúntame sobre:** Java, Spring Boot, Microservicios, Docker y Bases de Datos.
 
 ---
 
@@ -27,15 +27,30 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
-  
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA" />
+  <br><br>
+
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <br><br>
+
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Microservices-1F8CEB?style=flat-square&logo=microgen&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Arquitectura_Capas-blue?style=flat-square" alt="Arquitectura por Capas" />
 </p>
 
 ---
@@ -51,7 +66,7 @@
 ---
 
 <p align="center">
-  <b>Desarrollado por Jeferson.</b>
+  <b>Desarrollado por Jeferson Rosales.</b>
 </p>
 <!--
 **Jmrj24/Jmrj24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

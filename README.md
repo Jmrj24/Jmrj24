@@ -58,9 +58,17 @@
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jmrj24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmrj24&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=Jmrj24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jmrj24&theme=dracula" alt="Resumen de Perfil" />
+
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jmrj24&theme=dracula" alt="Lenguajes" />
+
 </div>
 
 ---
